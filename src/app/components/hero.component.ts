@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
           <a class="button button-secondary" href="Malek_Alhoubani_CV.pdf" download>Download CV <span aria-hidden="true">↓</span></a>
         </div>
         <div class="hero-meta" aria-label="Career summary">
-          <div><strong>2025</strong><span>CIS graduate</span></div><div><strong>3</strong><span>development roles</span></div><div><strong>Full stack</strong><span>web focus</span></div>
+          <div><strong>2024</strong><span>CIS graduate</span></div><div><strong>3</strong><span>development roles</span></div><div><strong>Full stack</strong><span>web focus</span></div>
         </div>
       </div>
       <div class="hero-visual" aria-hidden="true">

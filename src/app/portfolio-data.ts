@@ -75,7 +75,7 @@ export const projects: Project[] = [
 ];
 
 export const skillGroups = [
-  { title: 'Front end', skills: ['Angular', 'TypeScript / JavaScript', 'HTML', 'CSS', 'Bootstrap', 'Responsive UI', 'SPA Architecture'] },
+  { title: 'Front end', skills: ['Angular', 'React', 'TypeScript / JavaScript', 'HTML', 'CSS', 'Bootstrap', 'Responsive UI', 'SPA Architecture'] },
   { title: 'Back end', skills: ['ASP.NET Core Web API', 'PHP', 'CodeIgniter 4', 'RESTful APIs', 'SignalR', 'Authentication & Authorization'] },
   { title: 'Data & cloud', skills: ['MSSQL', 'SQL Databases', 'Azure', 'Query Optimization', 'Reporting & Export'] },
   { title: 'Workflow', skills: ['Git & GitHub', 'Agile Collaboration', 'UI/UX Handoff', 'Debugging', 'Cross-functional Delivery'] },
